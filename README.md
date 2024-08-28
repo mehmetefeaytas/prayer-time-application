@@ -1,6 +1,6 @@
 # Prayer Time Application
 
-The Prayer Time Application is a Tkinter-based interface that allows users to obtain daily prayer times for a selected city. The app provides a user-friendly experience, enabling language and city selection.
+The Prayer Time Application is a Tkinter-based interface that allows users to obtain daily prayer times for a selected city, mute the computer when the adhan is called and turn the sound back on when the adhan is over. The application provides a user-friendly experience by allowing language and city selection. 
 
 ## Features
 
