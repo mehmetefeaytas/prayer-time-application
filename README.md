@@ -18,7 +18,7 @@ The Prayer Time Application is a Tkinter-based interface that allows users to ob
 - **Requests**: An HTTP library used for API calls.
 
 ## Installation
-
+**Download with zip file and install the necessary libraries, then run the "main.py" file (preferred) or clone the repo**
 1. **Clone the Repository:**
 
    ```bash
